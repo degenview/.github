@@ -12,14 +12,4 @@ A free, open source TradingView alternative for your desktop. Multi-chart layout
 
 Available for macOS, Windows and Linux (Homebrew and Flatpak included). Licensed GPL-3.0-only.
 
-## Repositories
-
-| Repo | What it is |
-|---|---|
-| [degenview](https://github.com/degenview/degenview) | The app |
-| [web](https://github.com/degenview/web) | The website at degenview.app |
-| [docs](https://github.com/degenview/docs) | The user guide |
-| [homebrew-degenview](https://github.com/degenview/homebrew-degenview) | Homebrew tap |
-| [flatpak](https://github.com/degenview/flatpak) | Signed Flatpak repository |
-
 DegenView is an independent project and is not affiliated with TradingView.
