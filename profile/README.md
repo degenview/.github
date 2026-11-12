@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://degenview.app">
-    <img src="https://raw.githubusercontent.com/degenview/.github/main/profile/screenshot.webp" alt="DegenView: a BTC-EUR chart with indicators and drawings next to the paper trading order ticket" width="900">
+    <img src="https://raw.githubusercontent.com/degenview/.github/ace641a/profile/screenshot.webp" alt="DegenView: a BTC-EUR chart with indicators and drawings next to the paper trading order ticket" width="900">
   </a>
 </p>
 
